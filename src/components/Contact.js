@@ -318,7 +318,7 @@ const Contact = () => {
       <div className="contact-footer">
         <h2>Bizimlə Əlaqə</h2>
         <p>
-          Əlaqə nömrəsi: <a href="tel:+994514195344">+994 51 419 53 44</a>
+          Əlaqə nömrəsi: <a href="tel:+994514195344">+994 10 419 53 44</a>
         </p>
         <p>
           Email: <a href="mailto:info@digimenu.az">info@digimenu.az</a>
